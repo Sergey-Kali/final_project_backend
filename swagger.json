@@ -11,7 +11,7 @@
   },
   "consumes": ["application/json", "multipart/form-data"],
   "produces": ["application/json"],
-  "servers": [{ "url": "https://final_project_backend.onrender.com" }],
+  "servers": [{ "url": "https://your-pet-backend.onrender.com" }],
   "tags": [
     {
       "name": "Users",
